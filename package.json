@@ -1,0 +1,13 @@
+{
+  "name": "framework-agrv_lwip",
+  "version": "1.0.0",
+  "description": "A small independent implementation of the TCP/IP protocol suite, customized for AgRV devices",
+  "keywords": [
+    "framework",
+    "lwip",
+    "tcp/ip",
+    "risc-v",
+    "agrv",
+    "agm"
+  ]
+}
